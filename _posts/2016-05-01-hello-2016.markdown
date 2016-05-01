@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Welcome to Lambun's Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-05-01 06:04:00
+author:     "Lam"
+header-img: "img/post-bg-2016.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+```lam@world:~$ cat begin```
+
+
+Lam 的 Blog 就这么开通了。
+
+2016 年，我总算有个地方可以好好写点东西了。
+
+感谢[黄玄同学](http://huangxuan.me)的精美模板。
+
+```lam@world:~$ ping world```
+
+```2016 | EOF```
